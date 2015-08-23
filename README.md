@@ -1,1 +1,1 @@
-# stanford-machine-learning-course
+# my assignement collection for stanford-machine-learning-course
